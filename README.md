@@ -27,11 +27,11 @@ Neste projeto, unimos dados de quatro lojas diferentes para realizar análises c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone [https://github.com/alura-es-cursos/challenge1-data-science]
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd challenge1-data-science
    ```
 3. Instale as dependências (se necessário):
    ```bash
